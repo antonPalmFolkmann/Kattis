@@ -1,3 +1,5 @@
+package Difiiculty1;
+
 import java.util.Scanner;
 
 public class Quality_Adjusted_Life_Year {

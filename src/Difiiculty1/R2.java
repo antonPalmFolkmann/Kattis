@@ -1,3 +1,5 @@
+package Difiiculty1;
+
 import java.util.Scanner;
 
 public class R2 {
