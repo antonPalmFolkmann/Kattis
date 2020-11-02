@@ -2,7 +2,7 @@ package Difiiculty1;
 
 import java.util.Scanner;
 
-public class SolvingForCarrots {
+public class Solving_For_Carrots {
 
     public static void main(String[] args) {
         int a;
